@@ -52,6 +52,7 @@ simple-calculator/
 5. Open http://127.0.0.1:5000
 
 ## FEATURES
+<<<<<<< HEAD
 
 - Basic arithmetic operations
 - Scientific functions
@@ -68,3 +69,26 @@ Below is an example of the calculator running on the local machine.
 (assets/keo-codes_calculator.png)
 (assets/keo-codes_calculator_answer.png)
 
+=======
+
+- Basic arithmetic operations
+- Scientific functions
+- Clean and centered user interface
+- Backend calculations using Python Flask
+- Version controlled using GitHub
+
+## DEPENDENCIES
+- Python
+- Flask
+
+## SCREENSHOT
+Below is an example of the calculator running on the local machine.
+(assets/keo-codes_calculator.png)
+(assets/keo-codes_calculator_answer.png)
+
+
+
+
+
+
+>>>>>>> 2dcca92ee02d71ee1d4fa44116d9bac165f6f41f
