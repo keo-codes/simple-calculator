@@ -23,7 +23,8 @@ The calculator interface is built using HTML, CSS, and JavaScript, while the cal
 simple-calculator/
 │
 ├── assets/
-│   └── keo-codes_simple-calculator.png
+│   ├── keo-codes_simple-calculator.png
+│   └── keo-codes_simple-calculator_answer.png
 │
 ├── docs/
 │   └── project-notes.md
