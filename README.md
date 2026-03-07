@@ -18,6 +18,8 @@ The calculator interface is built using HTML, CSS, and JavaScript, while the cal
 - Visual Studio Code
 
 ## PTOJECT STRUCTURE
+
+```
 simple-calculator/
 │
 ├── assets/
@@ -35,6 +37,7 @@ simple-calculator/
 │
 ├── main.py
 └── README.md
+```
 
 ## HOW TO RUN
 1. Install Python
