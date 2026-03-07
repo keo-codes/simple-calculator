@@ -66,7 +66,7 @@ simple-calculator/
 ## SCREENSHOT
 Below is an example of the calculator running on the local machine.
 (assets/keo-codes_calculator.png)
-
+(assets/keo-codes_calculator_answer.png)
 
 
 
