@@ -1,41 +1,70 @@
-# Simple Calculator (Python)
+## Keo-Codes
+## SCIENTIFIC CALCULATOR WEB APP
 
-## 📌 Project Description
+## PROJECT DESCRIPTION
+This project is a web-based scientific calculator developed as part of a Software Engineering assignment. The calculator allows users to perform mathematical calculations through a web interface.
 
-This project is a command-line based calculator application developed in Python.  
-It demonstrates modular programming, input validation, error handling, and clean code structure.
+The application demonstrates the use of version control with GitHub and basic full-stack web development.
 
-The calculator supports the following operations:
+The calculator interface is built using HTML, CSS, and JavaScript, while the calculations are processed using a Python backend built with Flask.
 
-- Addition
-- Subtraction
-- Multiplication
-- Division (with division-by-zero handling)
+## TECHNOLOGIES USED
 
-This project was developed as part of a Software Engineering assignment to demonstrate proper version control practices using Git and GitHub.
+- HTML
+- CSS
+- JavaScript
+- Python
+- Flask
+- Visual Studio Code
 
----
+## PTOJECT STRUCTURE
 
-## 🚀 Features
+```
+simple-calculator/
+│
+├── assets/
+│   ├── keo-codes_simple-calculator.png
+│   └── keo-codes_simple-calculator_answer.png
+│
+├── docs/
+│   └── project-notes.md
+│
+├── static/
+│   ├── script.js
+│   └── style.css
+│
+├── templates/
+│   └── index.html
+│
+├── main.py
+└── README.md
+```
 
-- Modular function-based design
-- Continuous loop execution
-- Input validation using exception handling
-- Division by zero protection
-- Clean and user-friendly menu interface
+## HOW TO RUN
+1. Install Python
+   pip install python
+2. Install Flask:
+   pip install flask
+3. Navigate to the project folder:
+   cd simple-calculator
+4. Run the Flask server:
+   python main.py
+5. Open http://127.0.0.1:5000
 
----
+## FEATURES
 
-## 🛠 Requirements
+- Basic arithmetic operations
+- Scientific functions
+- Clean and centered user interface
+- Backend calculations using Python Flask
+- Version controlled using GitHub
 
-- Python 3.x installed
-- No external libraries required
+## DEPENDENCIES
+- Python
+- Flask
 
----
+## SCREENSHOT
+Below is an example of the calculator running on the local machine.
+(assets/keo-codes_calculator.png)
+(assets/keo-codes_calculator_answer.png)
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/simple-calculator.git
